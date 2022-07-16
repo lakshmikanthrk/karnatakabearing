@@ -4,7 +4,7 @@
 	<div class="container">
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Angular Contact Ball Bearing</h2>
+			<h2>React Contact Ball Bearing</h2>
 		</div>
 		<div class="col-md-4">
 			<ul>
