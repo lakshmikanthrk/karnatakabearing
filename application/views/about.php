@@ -7,7 +7,7 @@
 			<img src="<?=base_url()?>assets/images/about.webp">
 		</div>
 		<div class="col-md-6">
-			<p>Since 1989,  Karnataka Bearing Centre has been dedicated to providing bearings and other assemblies with high quality products, competitive pricing and a level of service unmatched in the industry.
+			<p>Since 1996,  Karnataka Bearing Centre has been dedicated to providing bearings and other assemblies with high quality products, competitive pricing and a level of service unmatched in the industry.
 			</p>
 			<p>Over the past 30 years, we have evolved from a small business selling dearth  to one of the industry's leading distributors of quality bearings and featured products. Today, our extensive inventory consists of over thousands of different bearing, V-Belts, chain, sprocket and bushing sizes and configurations. Products are conveniently stocked in, satisfying the just-in-time needs of distributors throughout India.
 			</p>
